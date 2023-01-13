@@ -9,6 +9,8 @@ body {
   background-color: hsl(212, 45%, 89%);
   display: flex;
   height: 100vh;
+  margin: 0;
+  padding: 0;
 }
 
 .Card-wrapper {
