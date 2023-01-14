@@ -32,7 +32,9 @@ body {
 
 .Card__title {
   color: hsl(218, 44%, 22%);
-  margin: 1rem;
+  margin: 1rem 1.5rem;
+  font-size: 1.2rem;
+  font-weight: 700;
   text-align: center;
 }
 
